@@ -18,6 +18,7 @@ with open('./command_history.txt', 'w') as out:
                         
                         if re.search(IPV4_PATTERN, args):
                             print(f"{log}: {args}")
+                            out.write(f"{log}: {args}")
                     except Exception as e:
                         pass
 
