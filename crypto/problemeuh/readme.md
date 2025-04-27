@@ -38,7 +38,7 @@ x ^ 2 &= a + b \\
 \end{align}
 $$
 
-Since we know $(1)$ and $(2)$, in order for $a \in \Z$ to hold true we need,
+Since we know $(1)$ and $(2)$, in order for $a \in \N^*$ to hold true we need,
 
 $$
 a \equiv 0 [485] \text{ and } a \equiv 0[487]
