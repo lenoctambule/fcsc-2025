@@ -91,16 +91,16 @@ $$
 \end{align*}
 $$
 
-Let's find the solution of that equation :
+Let's solve for $y$ :
 
 $$
 \Delta = 1 + 24b
 $$
 
-And since, $\Delta > 0$ and because we can't yeet out the negative solution because $2b > 0$.
+And since $\Delta > 0$ because $2b > 0$,
 
 $$
-y = {1 + \sqrt{\Delta} \over 6}
+y = {1 \plusmn \sqrt{\Delta} \over 6}
 $$
 
 Another square-root, which means we need to ensure again that $\Delta$ is a perfect square. Let $\delta \in \N$
